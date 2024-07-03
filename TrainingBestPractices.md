@@ -109,7 +109,7 @@ The following is a sample schedule for a 9-10 day hackathon that includes both e
 * *Days 3, 6, last:* Remind everyone of the hackathon report during morning rounds.
 * *Day 3, before morning rounds:* Identify who has not submitted a pull request, assign a principal developer to make sure the participant does not fall through the cracks.
 * *Day 3, morning:* Have a "speed dating round" where each participant gets to talk for 5-10 minutes with one or two principal developers. The goal should be to make sure participants know how to break down their project into manageable tasks.
-* *Day 5, before morning rounds:* Principal developers get to gether to identify problematic cases, assign a principal developer to make sure the participant does not fall through the cracks.
+* *Day 5, before morning rounds:* Principal developers get together to identify problematic cases, assign a principal developer to make sure the participant does not fall through the cracks.
 
 
 # Appendix
